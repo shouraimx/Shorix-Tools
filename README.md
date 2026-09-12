@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon-512.png" alt="Shorix Logo" width="120" />
+<img src="shorix-logo.png" alt="Shorix Logo" width="120" />
 
 # Shorix
 
