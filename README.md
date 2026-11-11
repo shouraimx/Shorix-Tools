@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="shorix-logo.png" alt="Shorix Logo" width="120" />
+<img src="shorix-logo.png" alt="Shorix Tools Logo" width="120" />
 
-# Shorix
+# Shorix Tools
 
-**Extract. Convert. Dominate.**
+**Every file. Every format. Zero upload.**
 
-Pakistan's most powerful all-in-one online toolkit — 100+ free tools for PDF conversion, image editing, audio/video processing, AI generation, and more.
+109+ free online tools for PDF conversion, image editing, audio/video processing, text utilities, calculators and more — all running directly in your browser.
 
-[![Live Site](https://img.shields.io/badge/Live-shorix.io-FF8FAB?style=for-the-badge&logo=vercel&logoColor=white)](https://shorix.io)
+[![Live Site](https://img.shields.io/badge/Live-tools.shorix.io-B49A70?style=for-the-badge&logo=vercel&logoColor=white)](https://tools.shorix.io)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,63 +20,70 @@ Pakistan's most powerful all-in-one online toolkit — 100+ free tools for PDF c
 
 ## About
 
-Shorix is a comprehensive web-based toolkit that provides 100+ free online tools for file conversion, image editing, audio/video processing, AI-powered generation, calculators, and more. No signup, no installation required — all tools run directly in your browser.
+Shorix Tools is a comprehensive web-based toolkit with 109+ free online tools for file conversion, image editing, audio/video processing, text utilities, calculators and more. No signup, no installation — every tool runs inside your browser, so your files are never uploaded anywhere.
 
 ## Features
 
-- **PDF Tools** — Convert, extract, merge, split PDFs (PDF to Word, JPG, PNG, Excel, and more)
-- **Image Tools** — Background remover, compressor, format converter, watermark remover
-- **Audio Tools** — Convert between MP3, WAV, AAC, FLAC, OGG, M4A
-- **Video Tools** — Convert between MP4, WebM, AVI, MOV, MKV; extract audio; create GIFs
-- **AI Studio** — AI image generation with multiple models (Pollinations, HuggingFace, Cloudflare Workers AI)
-- **Calculators** — Scientific calculator, BMI calculator, and more
-- **AI Chatbot** — Powered by Gemini with Groq fallback
-- **Admin Dashboard** — Full analytics, user management, and tool control panel
+- **PDF Tools** — Convert, extract, merge and split PDFs (PDF to Word, JPG, PNG, Excel, PowerPoint and more)
+- **Image Tools** — Background remover, compressor, format converter, upscaler, watermark remover
+- **Audio & Video** — Convert between MP3, WAV, AAC, FLAC, OGG, M4A / MP4, WebM, AVI, MOV, MKV; extract audio; create GIFs
+- **Text & Writing** — Word counter, case converter, grammar checker, plagiarism checker, lorem ipsum
+- **Utilities** — QR code generator/scanner, barcode tools, password generator, unit & timezone converters
+- **Calculators** — BMI, scientific, percentage and more
+- **Guest-first dashboard** — open the full toolbox without an account; sign in only when you buy credits or a membership
+- **Multi-currency pricing** — PKR, USD, EUR and GBP with automatic detection; JazzCash and bank transfer accepted
+- **Payment status lookup** — every payment gets an `SX-` code you can track anytime
+- **Responsive + dark mode** — full theme support with system preference detection
 
 ## Screenshots
 
 ### Homepage
 ![Homepage](screenshots/home.png)
 
-### AI Studio
-![AI Studio](screenshots/ai-studio.png)
-
-### PDF to JPG Converter
-![PDF to JPG](screenshots/pdf-to-jpg.png)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ### Pricing
 ![Pricing](screenshots/pricing.png)
+
+### PDF to Word
+![PDF to Word](screenshots/pdf-to-word.png)
+
+### Tools menu
+![Tools menu](screenshots/tools-menu.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
 
 ## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
-| Frontend | Next.js 15, React 19, Tailwind CSS 4 |
+| Frontend | Next.js 15, React 19, Tailwind CSS 4, TypeScript |
 | Backend | Node.js, MySQL (mysql2) |
-| AI | HuggingFace, Cloudflare Workers AI, Gemini, Groq |
-| Auth | JWT, Google OAuth, GitHub OAuth, Firebase Phone Auth |
+| Auth | JWT, email OTP |
 | Email | Resend |
-| Payments | JazzCash integration |
-| Monitoring | Sentry |
+| Payments | JazzCash, bank transfer |
+| Monitoring | Sentry, Google Analytics, AdSense |
 | Deployment | Hostinger (Linux) |
 
 ## Key Highlights
 
-- **100+ tools** — one of the largest free online toolkits from Pakistan
-- **No signup required** — most tools work without registration
-- **Credit system** — free tier with 10 conversions/day, Pro plan for unlimited
-- **Admin panel** — real-time analytics, user management, support tickets
-- **Responsive design** — works on desktop, tablet, and mobile
-- **Dark mode** — full theme support with system preference detection
+- **109+ tools across 16 categories** — one of the largest free online toolkits
+- **No signup required** — tools work instantly in your browser
+- **Files never leave your device** — conversions run locally (zero upload)
+- **Credit system** — free tier with daily conversions, Pro plan for unlimited
+- **Support desk** — tickets, suggestions and a helpful chatbot
+- **Admin panel** — analytics, user management, tool control and payment verification
 
 ## Live
 
-**[shorix.io](https://shorix.io)**
+**[tools.shorix.io](https://tools.shorix.io)**
 
 ---
 
 <div align="center">
 
-Built with care from Pakistan
+Made with care
 
 </div>
